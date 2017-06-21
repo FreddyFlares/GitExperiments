@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Edit 1");
             Console.WriteLine("Edit 2);
+            Console.WriteLine("Edit 3");
         }
     }
 }
